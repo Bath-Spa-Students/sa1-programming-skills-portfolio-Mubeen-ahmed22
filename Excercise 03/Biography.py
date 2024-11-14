@@ -12,15 +12,7 @@ Name = "Mubeen Ahmed"
 Hometown = "pakistan"
 Age = 17
 
-user_info = {
-    "Name": Name,
-    "Hometown": Hometown,
-    "Age": Age
-}
-
 # Step 2: Print the values on separate lines using a single print statement
-print("Name:", user_info["Name"])
-print("Hometown:", user_info["Hometown"])
-print("Age:", user_info["Age"])
+print(f"Name: {Name} \nAge: {Age} \nHometown: {Hometown}")
 
 
