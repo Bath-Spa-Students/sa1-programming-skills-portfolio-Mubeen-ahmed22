@@ -15,7 +15,7 @@ Leap Year Adjustment: Modify the program to account for leap years. For February
 # Step 1: Making a Dictionary
 days_of_months = {  
     1: 31,
-    2: 28,  # Usual days for February
+    2: 28, 
     3: 31,
     4: 30,
     5: 31,
