@@ -20,7 +20,7 @@ correct_password=(12345)
 #if else
 
 if Enter_password==correct_password:
-        print("correct password")
+        print("Correct password")
         
 else:
  print("Incorrect password")
